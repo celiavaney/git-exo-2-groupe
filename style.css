@@ -27,6 +27,29 @@ nav {
   width: 20%;
 }
 
+/* SECTION NICOLAS */
+
+.nicolas_row{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+
+.nicolas_imga{
+    height: 100%;
+}
+.nicolas_imgb{
+    height: 100%;
+}
+.nicolas_imgc{
+    height: 100%;
+}
+.nicolas_imgd{
+    height: 100%;
+}
+
 
 /* FOOTER */
 button {
@@ -56,4 +79,3 @@ footer a {
     color: gray;
     text-decoration: none;
 }
-
